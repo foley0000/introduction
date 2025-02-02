@@ -10,14 +10,9 @@ header {
 }
 
 table {
-  font-weight:30px;  
-  table-align:center;
-  border-collapse: collapse;
+  font-size:30px;  
   border-width:3px;
   border-style:dashed;
   border-color:#FFFFFF;
 }
 
-tr {
-  width:100%;
-}
