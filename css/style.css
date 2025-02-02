@@ -1,7 +1,7 @@
 body {
   background-color:#7FFFD4; 
   font-family:'Sawarabi Gothic', sans-serif;
-  width:960px;
+  width:100%;
   margin:auto;
 }
 
@@ -12,7 +12,6 @@ header {
 table {
   font-weight:30px;  
   table-align:center;
-  table-width:100%;
   border-collapse: collapse;
   border-width:3px;
   border-style:dashed;
