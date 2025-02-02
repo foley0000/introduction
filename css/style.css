@@ -10,7 +10,7 @@ header {
 }
 
 main {
-  border:3px,solid,#FFFFFF;
+  border:10px,dashed,#FFFFFF;
 }
 
 table {
