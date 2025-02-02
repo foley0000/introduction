@@ -1,6 +1,6 @@
 body {
   background-color:#7FFFD4; 
-  font-family:'MS 明朝',MS Mincho,serif;
+  font-family:'Sawarabi Gothic', sans-serif;
   width:960px;
   margin:auto;
 }
@@ -12,7 +12,7 @@ header {
 table {
   font-weight:25px;  
   table-align:center;
-  table-width:960;
+  table-width:100%;
   border-width:3px;
   border-style:dashed;
   border-color:#FFFFFF;
